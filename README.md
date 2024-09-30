@@ -1,1 +1,2 @@
 ## BMI Calculator
+A simple command-line tool to calculate BMI (Body Mass Index) based on user input for height and weight. BMI is used to determine whether a person has a healthy body weight for a given height.
